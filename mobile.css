@@ -1,0 +1,17 @@
+@media only screen and (max-width: 600px) {
+  
+.tic-tac {
+    font-size: 2rem;
+}
+.container {
+    height: 70vh;
+}
+.games {
+    height: 45vh;
+}
+.box {
+    height: 13vh;
+    width: 13vh;
+}
+
+}
